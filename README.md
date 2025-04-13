@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @juanvoo
-- 👀 I’m interested in technology
-- 🌱 I’m currently learning HTML and CSS3
-- 
+- LTI Student
+- 21
+- Uruguayan
 
 <!---
 juanvoo/juanvoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
