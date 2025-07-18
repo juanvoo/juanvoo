@@ -1,5 +1,5 @@
 <div align="center">
-   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=2CFF00&section=header&reversal=false&descAlign=50&descAlignY=50&fontAlign=50&fontAlignY=50/>
+   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=00AEFF&section=header&reversal=false&descAlign=50&descAlignY=50&fontAlign=50&fontAlignY=50/>
 </div>
 <div align="center">
 <h1 align="center"><b>Hi!, I'm Juan Moreira </b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
@@ -94,13 +94,14 @@ I'm characterized by my curiosity, commitment, and passion for technology, which
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px"> <b>Connect with Me</b>
 No matter the reason, whether you want to drop by to say hi or ask something, my inbox is always open! 😊✉️🤝
-<p align="center">
-<a href="https://www.linkedin.com/in/juan-andr%C3%A9s-moreira-costa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Juan Moreira" height="30" width="40" /></a>
-   <p align="center">
-   <a href="mailto:juanmoreiracosta2016@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" height="50" width="40"/> </a>
-      <p align="center">
-   <a href="https://instagram.com/juan_moreira03/"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/> </a>
-</p>
+   <div align="center">
+   <span>&nbsp;</span>
+<a href="https://www.linkedin.com/in/juan-andr%C3%A9s-moreira-costa/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt=linkedin style="margin-bottom: 5px;"/></a>
+      <span>&nbsp;</span>
+<a href="mailto:juanmoreiracosta2016@gmail.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/gmail.svg" alt=gmail style="margin-bottom: 5px;" />
+    </a>
+</div>
 
 <div align="center">
 
@@ -108,7 +109,7 @@ No matter the reason, whether you want to drop by to say hi or ask something, my
 </div>
 
 <a href="https://github.com/vibrantfix#gh-dark-mode-only">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=2CFF00&section=footer&reversal=false&descAlign=50&descAlignY=50&fontAlign=50&fontAlignY=50"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=00AEFF&section=footer&reversal=false&descAlign=50&descAlignY=50&fontAlign=50&fontAlignY=50"/>
   </a>
 <!---
 juanvoo/juanvoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
