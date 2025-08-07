@@ -89,7 +89,7 @@ I'm characterized by my curiosity, commitment, and passion for technology, which
 <img src="https://i.imgur.com/YCw47Dm.gif">
 </p>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=juanvoo&show_icons=true&locale=en&theme=chartreuse-dark"><img src="https://github-readme-streak-stats.herokuapp.com?user=juanvoo&locale=en&theme=chartreuse-dark&date_format=M%20j%5B%2C%20Y%5D">
+<img src="https://github-readme-stats.vercel.app/api?username=juanvoo&show_icons=true&locale=en&theme=chartreuse-dark">
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px"> <b>Connect with Me</b>
