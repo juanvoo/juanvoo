@@ -11,7 +11,9 @@
 
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px>&nbsp;***About me***
 
-I am Full Stack Developer and IT student at UTEC.
+<strong>Full Stack Developer | Network and Software Technician | IT student at UTEC</strong>
+<br>
+<br>
 I'm a responsible, productive, and innovative professional, always focused on continuous improvement and creating solutions that deliver real value.
 I'm characterized by my curiosity, commitment, and passion for technology, which drives me to constantly learn and take on new challenges.
 
