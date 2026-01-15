@@ -17,9 +17,9 @@
 I'm a responsible, productive, and innovative professional, always focused on continuous improvement and creating solutions that deliver real value.
 I'm characterized by my curiosity, commitment, and passion for technology, which drives me to constantly learn and take on new challenges.
 
-- 🎓 In 2022, I graduated as a Full Stack Developer, a program that gave me comprehensive understanding of frontend and backend development.
+- 🎓 In 2022, I graduated as a Full Stack Developer, a program that gave me comprehensive understanding of frontend and backend development. Also In 2025, I graduated as a Network and Software Technician.
 
-- 📚 Currently pursuing a Bachelor's Degree in Information Technology at UTEC along with a Technical Degree in Networks and Software.
+- 📚 Currently pursuing a Bachelor's Degree in Information Technology at UTEC.
 
 - 🌱 Particularly interested in artificial intelligence, web development, process automation, and UX/UI.
 
