@@ -87,13 +87,6 @@ I'm characterized by my curiosity, commitment, and passion for technology, which
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<p align="center">
-<img src="https://i.imgur.com/YCw47Dm.gif">
-</p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=juanvoo&show_icons=true&locale=en&theme=chartreuse-dark">
-
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px"> <b>Connect with Me</b>
 No matter the reason, whether you want to drop by to say hi or ask something, my inbox is always open! 😊✉️🤝
    <div align="center">
